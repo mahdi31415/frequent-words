@@ -1,0 +1,5 @@
+                    The purpose of this study was         to develop and test models that can be used as predictors of community support, or lack thereof, for commercial gaming. Specifically, the study examined the role
+of the factors that contribute to legalization and/or probation of gambling activities using artificial
+neural networks. Model-1 (predicting “no” votes) correctly predicted 201 out of 257 counties that
+would vote against gaming. Model-2 (predicting “yes” votes) correctly predicted 198 out of 257
+                            counties that would vote for gaming
